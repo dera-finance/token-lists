@@ -1,0 +1,8 @@
+{
+	"name": "Ribose Network Atom",
+	"website": "https://genechain.io",
+	"description": "Native token of GeneChain. GeneChain is a decentralized, efficient, and secure public chain, which realizes smart contract compatibility on the basis of supporting high-performance transactions.",
+	"symbol": "RNA",
+	"decimals": 18,
+	"status": "active"
+}

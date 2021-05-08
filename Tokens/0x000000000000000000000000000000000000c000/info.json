@@ -1,0 +1,10 @@
+{
+	"name": "Accelerator of Ribose Mining",
+	"website": "https://genechain.io",
+	"description": "System token of GeneChain, which can be used to increase ribose staking weight.",
+	"type": "ERC20",
+	"symbol": "ARM",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x000000000000000000000000000000000000c000"
+}
