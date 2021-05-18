@@ -1,0 +1,10 @@
+{
+  "name": "VBC",
+  "website": "https://www.radarlab.org",
+  "description": "Wrapped VBC on GeneChain",
+  "type": "ERC20",
+  "symbol": "VBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeBe33f292A4F3fA9104A8d38A2cfFd9fe3D2d277"
+}
