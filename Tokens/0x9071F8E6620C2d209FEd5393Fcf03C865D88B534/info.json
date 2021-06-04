@@ -1,0 +1,10 @@
+{
+  "name": "VBC",
+  "website": "https://dera.finance",
+  "description": "Testing VBC on GeneChain Adenine Testnet",
+  "type": "ERC20",
+  "symbol": "VBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9071F8E6620C2d209FEd5393Fcf03C865D88B534"
+}

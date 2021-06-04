@@ -1,0 +1,10 @@
+{
+  "name": "USDT",
+  "website": "https://dera.finance",
+  "description": "Testing USDT on GeneChain Adenine Testnet",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xb088E15d2cCeBb8Fe474faa43EE9657b3e85eA40"
+}
