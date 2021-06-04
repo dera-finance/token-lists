@@ -1,0 +1,10 @@
+{
+  "name": "WRNA",
+  "website": "https://novaswap.finance",
+  "description": "Wrapped RNA on GeneChain",
+  "type": "ERC20",
+  "symbol": "WRNA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x35274271db5193160A02b81826C9272eE01F5B9C"
+}

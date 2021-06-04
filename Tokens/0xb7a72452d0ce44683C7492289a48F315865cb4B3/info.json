@@ -1,0 +1,10 @@
+{
+  "name": "NOVA",
+  "website": "https://novaswap.finance",
+  "description": "Governance token of Novaswap",
+  "type": "ERC20",
+  "symbol": "NOVA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb7a72452d0ce44683C7492289a48F315865cb4B3"
+}
