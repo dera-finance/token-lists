@@ -1,0 +1,10 @@
+{
+  "name": "USDT",
+  "website": "https://dera.finance",
+  "description": "Wrapped USDT on GeneChain",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x1Dc22853E8517c79058939Ae0DDBeF6d5e3c0199"
+}

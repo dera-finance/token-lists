@@ -1,9 +1,9 @@
 {
-  "name": "VRP",
+  "name": "VBC",
   "website": "https://dera.finance",
-  "description": "Testing VRP on GeneChain Adenine Testnet",
+  "description": "Testing VBC on GeneChain Adenine Testnet",
   "type": "ERC20",
-  "symbol": "VRP",
+  "symbol": "VBC",
   "decimals": 18,
   "status": "active",
   "id": "0x843E0a2849126a5592bc74F16d58E91f9dDabaEC"
