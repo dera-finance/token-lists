@@ -1,5 +1,14 @@
 # TokenList
 
+This package includes Token icons and JSON metadata for token infos.
+
+Anyone can create and maintain a token info, as long as they follow the specification.
+
+## How to use
+
+Raw: [https://raw.githubusercontent.com/dera-finance/token-lists/main/Tokens/RNA/logo.png](https://raw.githubusercontent.com/dera-finance/token-lists/main/Tokens/RNA/logo.png)
+Proxied: [https://token.dera.finance/RNA/logo.png](https://token.dera.finance/RNA/logo.png)
+
 ## Contribution Rules
 
 ### Tokens
