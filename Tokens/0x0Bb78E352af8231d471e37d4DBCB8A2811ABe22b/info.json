@@ -1,0 +1,10 @@
+{
+  "name": "LEND",
+  "website": "https://lendland.finance",
+  "description": "Governance token of Lendland on GeneChain Adenine Testnet",
+  "type": "ERC20",
+  "symbol": "LEND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0Bb78E352af8231d471e37d4DBCB8A2811ABe22b"
+}
