@@ -1,0 +1,10 @@
+{
+  "name": "eVBC",
+  "website": "https://lendland.finance",
+  "description": "Testing eVBC on GeneChain Adenine Testnet",
+  "type": "ERC20",
+  "symbol": "eVBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xFC8e841Bc857f532abB6BBB251b8236CD8D46Ff9"
+}
