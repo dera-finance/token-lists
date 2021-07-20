@@ -1,5 +1,5 @@
 {
-  "name": "eUSDT",
+  "name": "LendLand USDT eToken",
   "website": "https://lendland.finance",
   "description": "Testing eUSDT on GeneChain Adenine Testnet",
   "type": "ERC20",
