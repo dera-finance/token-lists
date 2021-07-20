@@ -1,0 +1,10 @@
+{
+  "name": "eRNA",
+  "website": "https://lendland.finance",
+  "description": "Testing eRNA on GeneChain Adenine Testnet",
+  "type": "ERC20",
+  "symbol": "eRNA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6C818c0C83d182F2d77D2786780143E8c71eBf6B"
+}
