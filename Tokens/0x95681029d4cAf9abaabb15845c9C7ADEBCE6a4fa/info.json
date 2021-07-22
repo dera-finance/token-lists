@@ -1,0 +1,10 @@
+{
+  "name": "Lendland VBC eToken",
+  "website": "https://lendland.finance",
+  "description": "VBC eToken on GeneChain",
+  "type": "ERC20",
+  "symbol": "eVBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x95681029d4cAf9abaabb15845c9C7ADEBCE6a4fa"
+}
