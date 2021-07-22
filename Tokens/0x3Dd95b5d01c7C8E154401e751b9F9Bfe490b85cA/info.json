@@ -4,7 +4,7 @@
   "description": "RNA eToken on GeneChain",
   "type": "ERC20",
   "symbol": "eRNA",
-  "decimals": 18,
+  "decimals": 8,
   "status": "active",
   "id": "0x3Dd95b5d01c7C8E154401e751b9F9Bfe490b85cA"
 }
