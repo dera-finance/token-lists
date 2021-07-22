@@ -1,0 +1,10 @@
+{
+  "name": "Lendland USDT eToken",
+  "website": "https://lendland.finance",
+  "description": "USDT eToken on GeneChain",
+  "type": "ERC20",
+  "symbol": "eUSDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xFD4Df231B04904a96F95e6A727D075277dA93d4E"
+}
