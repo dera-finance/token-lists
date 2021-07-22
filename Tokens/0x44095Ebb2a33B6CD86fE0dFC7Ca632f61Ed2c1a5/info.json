@@ -1,10 +1,10 @@
 {
-  "name": "LendLand LEND eToken",
+  "name": "Lendland LEND eToken",
   "website": "https://lendland.finance",
   "description": "Testing eLEND on GeneChain Adenine Testnet",
   "type": "ERC20",
   "symbol": "eLEND",
-  "decimals": 18,
+  "decimals": 8,
   "status": "active",
   "id": "0x44095Ebb2a33B6CD86fE0dFC7Ca632f61Ed2c1a5"
 }
