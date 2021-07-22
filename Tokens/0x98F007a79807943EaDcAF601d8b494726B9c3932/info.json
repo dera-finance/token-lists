@@ -1,0 +1,10 @@
+{
+  "name": "Lendland NOVA eToken",
+  "website": "https://lendland.finance",
+  "description": "NOVA eToken on GeneChain",
+  "type": "ERC20",
+  "symbol": "eNOVA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x98F007a79807943EaDcAF601d8b494726B9c3932"
+}
