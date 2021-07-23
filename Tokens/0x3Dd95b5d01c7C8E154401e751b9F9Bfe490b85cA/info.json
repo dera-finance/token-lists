@@ -1,10 +1,10 @@
 {
   "name": "Lendland RNA eToken",
   "website": "https://lendland.finance",
-  "description": "Testing eRNA on GeneChain Adenine Testnet",
+  "description": "RNA eToken on GeneChain",
   "type": "ERC20",
   "symbol": "eRNA",
   "decimals": 8,
   "status": "active",
-  "id": "0x6C818c0C83d182F2d77D2786780143E8c71eBf6B"
+  "id": "0x3Dd95b5d01c7C8E154401e751b9F9Bfe490b85cA"
 }
