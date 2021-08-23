@@ -1,0 +1,10 @@
+{
+  "name": "Dera-Peg Ethereum Token",
+  "website": "https://dera.finance",
+  "description": "Dera-Peg Ethereum Token on GeneChain",
+  "type": "ERC20",
+  "symbol": "ETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4DfC12BeEce828c46A8F19A2247a8615C47AefdA"
+}
