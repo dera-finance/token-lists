@@ -1,0 +1,10 @@
+{
+  "name": "eETH",
+  "website": "https://lendland.finance",
+  "description": "eETH on GeneChain",
+  "type": "ERC20",
+  "symbol": "eETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x37B8f48A8eE935Fd69B577efA6e94dE6A330d8f6"
+}
