@@ -1,0 +1,10 @@
+{
+    "name": "Mushu Finance",
+    "website": "https://mushu.finance",
+    "description": "A decentralized hybrid yield earning with value-optimized, economically sustainable running on the GeneChain blockchain.",
+    "type": "ERC20",
+    "symbol": "MUSHU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5482e669Eb8eA3B4EE1ff5eCe48D343195a90Dab"
+  }
